@@ -13,7 +13,7 @@
 						<key>url</key>
 
 						<!-- http或者https链接的ipa文件地址 -->
-						<string>https://dn-dcloud.qbox.me/20161212/4313f7cc-f9fa-1247-56ce-584ed261a5e3/Pandora-I?download/H57CD6BEB_1212163806.ipa&e=1482216899&token=NnNBeYySSNAvw4mRpTG4lZFLSzHEK0GnVnlVLu_4:tq8oZZct5oZvYu1fdm6yMhSVqT0=</string>
+						<string>http://jr55.tecshow.cn:9096/H57CD6BEB_1212163806.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -23,7 +23,7 @@
 						<key>url</key>
 
 						<!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-						<string>/unpackage/res/icons/152x152.png</string>
+						<string>http://jr55.tecshow.cn:9096/res/icons/152x152.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
